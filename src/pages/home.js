@@ -1,0 +1,17 @@
+
+
+export default function Home(){
+    return (
+        <div>
+            <h1 style={{textAlign:"center"}}>Lorem Ipsum</h1>
+            <h3>Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."</h3>
+            <p className='border'></p>
+            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc porta mauris quis viverra lobortis. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin rhoncus tincidunt eros ac bibendum. Phasellus a tristique nisl. Nulla pharetra magna ac aliquam vehicula. Morbi tempus malesuada blandit. Duis vel diam at elit tempor congue ut quis dui. Duis venenatis sodales nulla, at lacinia eros condimentum quis. Proin convallis porttitor ex. In condimentum dui vel nibh blandit, mattis semper turpis ornare. Sed id erat sit amet tellus fringilla faucibus.</p>
+            <p>Maecenas scelerisque sapien et rutrum interdum. Sed ut elementum leo. Praesent ut ex eu quam porta laoreet eget blandit ex. Nunc molestie justo malesuada, faucibus velit vel, auctor felis. Donec pulvinar nulla tellus, porta mollis sapien ornare sit amet. Nullam mattis nulla vel porta pellentesque. Vivamus sit amet vulputate lectus. Donec efficitur sapien eget sem auctor fermentum.</p>
+            <p>Praesent vitae purus metus. Duis dui quam, sollicitudin vitae turpis sit amet, commodo convallis lacus. Vestibulum vel magna hendrerit, sagittis ipsum vitae, ornare tellus. In fermentum augue sit amet nunc mollis placerat. Suspendisse potenti. Quisque eu nulla ipsum. Aliquam accumsan dolor eget neque gravida, quis rutrum dolor consectetur. Nullam vel ullamcorper urna. Proin felis justo, facilisis ut tellus non, aliquam lobortis est. Nulla mattis dolor sed ligula euismod, a porttitor leo ultricies. Sed mollis ullamcorper augue sed commodo. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nunc suscipit ultricies vestibulum. Aenean at viverra turpis.</p>
+            <p>Vestibulum fermentum velit condimentum sodales dignissim. Vestibulum nibh libero, sollicitudin ac molestie vitae, tempor sed nisl. Mauris mattis, metus hendrerit feugiat lobortis, est justo posuere lectus, et sodales massa lectus eu purus. Cras ut lobortis dui. Praesent vel convallis enim. Phasellus auctor, quam eget semper euismod, massa eros interdum sapien, non fermentum mauris urna eu tortor. Duis congue aliquam urna eu hendrerit. Nam sagittis ex sit amet lacus faucibus, eu tristique dolor dignissim. Mauris vulputate, neque eget tincidunt blandit, ante diam lacinia massa, vel vulputate elit est sit amet diam. In suscipit ligula at massa eleifend lacinia. Sed et ex maximus, venenatis tortor ut, dignissim erat. Sed ac est tellus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>
+            <p>Mauris ante ante, consequat sit amet odio id, gravida porta velit. Aliquam a orci non velit pulvinar venenatis sed condimentum augue. Vivamus at arcu erat. Sed vel ligula lacus. Quisque ultrices lacus nec dictum cursus. Pellentesque vulputate metus in tellus cursus, eget fermentum ligula efficitur. Vestibulum sed fermentum enim, id posuere nibh.</p>
+        </div>
+    )
+}
